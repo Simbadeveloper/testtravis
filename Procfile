@@ -1,1 +1,1 @@
-web: python Fast_Food_Fast.py
+weorker: python Fast_Food_Fast.py
