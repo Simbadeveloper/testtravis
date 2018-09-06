@@ -1,1 +1,1 @@
-web: python Fast_Food_Fast.py
+worker: python Fast_Food_Fast.py
