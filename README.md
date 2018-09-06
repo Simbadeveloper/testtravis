@@ -1,4 +1,5 @@
-# testtravis
+# Test
+[![CircleCI](https://circleci.com/gh/Simbadeveloper/testtravis.svg?style=svg)](https://circleci.com/gh/Simbadeveloper/testtravis)
 [![Build status](https://travis-ci.org/Simbadeveloper/testtravis.svg?master)](https://travis-ci.org/Simbadeveloper)
 [![Coverage Status](https://coveralls.io/repos/github/Simbadeveloper/testtravis/badge.svg?branch=master)](https://coveralls.io/github/Simbadeveloper/testtravis?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/ad4b88f8a2747edf43ea/maintainability)](https://codeclimate.com/github/Simbadeveloper/testtravis/maintainability)
