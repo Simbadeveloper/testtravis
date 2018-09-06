@@ -46,9 +46,7 @@ jobs:
       # https://nose.readthedocs.io
       - run:
           name: run tests
-          command: |
-            . venv/bin/activate
-            python test_Fast_food_Fast.py 
+          command: python test_Fast_food_Fast.py 
 
       - store_artifacts:
           path: test-reports
