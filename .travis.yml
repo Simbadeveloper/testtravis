@@ -6,11 +6,7 @@ python:
   -'3.6'
 
 
-install:
-  - pip install --user -r requirements.txt
-
 
 scripts:
-  - python test_Fast_Food_Fast.py
-
+  -pytest
 after_success: coveralls
