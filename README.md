@@ -1,6 +1,7 @@
 # Test
 [![CircleCI](https://circleci.com/gh/Simbadeveloper/testtravis.svg?style=svg)](https://circleci.com/gh/Simbadeveloper/testtravis)
 [![Build status](https://travis-ci.org/Simbadeveloper/testtravis.svg?master)](https://travis-ci.org/Simbadeveloper)
+[ ![Codeship Status for Simbadeveloper/testtravis](https://app.codeship.com/projects/95a000a0-945d-0136-6791-16711eab9874/status?branch=master)](https://app.codeship.com/projects/304673)
 [![Coverage Status](https://coveralls.io/repos/github/Simbadeveloper/testtravis/badge.svg?branch=master)](https://coveralls.io/github/Simbadeveloper/testtravis?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/ad4b88f8a2747edf43ea/maintainability)](https://codeclimate.com/github/Simbadeveloper/testtravis/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ad4b88f8a2747edf43ea/test_coverage)](https://codeclimate.com/github/Simbadeveloper/testtravis/test_coverage)
