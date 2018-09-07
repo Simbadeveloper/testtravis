@@ -1,6 +1,7 @@
 # Test
 
 [![Build status](https://ci.appveyor.com/api/projects/status/r05lx9asmq9893wl/branch/master?svg=true)](https://ci.appveyor.com/project/Simbadeveloper/testtravis/branch/master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3bdf79e4cc174ab9af8cfb8ccdc9ead9)](https://www.codacy.com/app/Simbadeveloper/testtravis?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Simbadeveloper/testtravis&amp;utm_campaign=Badge_Grade)
 [![BCH compliance](https://bettercodehub.com/edge/badge/Simbadeveloper/testtravis?branch=master)](https://bettercodehub.com/)
 [![Build status](https://travis-ci.org/Simbadeveloper/testtravis.svg?master)](https://travis-ci.org/Simbadeveloper)
 [ ![Codeship Status for Simbadeveloper/testtravis](https://app.codeship.com/projects/95a000a0-945d-0136-6791-16711eab9874/status?branch=master)](https://app.codeship.com/projects/304673)
