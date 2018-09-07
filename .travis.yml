@@ -25,7 +25,7 @@ before_script:
 script:
   - coverage run test_Fast_Food_Fast.py
   - coverage report -m
-  - pytest
+  - pytest --cov=test_Fast_Food_Fast.py
   - python test_Fast_Food_Fast.py
 after_script:
   - coverage xml
