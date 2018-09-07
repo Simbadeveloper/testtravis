@@ -5,7 +5,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/ad4b88f8a2747edf43ea/maintainability)](https://codeclimate.com/github/Simbadeveloper/testtravis/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ad4b88f8a2747edf43ea/test_coverage)](https://codeclimate.com/github/Simbadeveloper/testtravis/test_coverage)
 
-![GitHub pull request check state](https://img.shields.io/github/status/s/pulls/badges/shields/1110.svg)
 
 
 # Better code result
