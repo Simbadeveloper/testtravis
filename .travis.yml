@@ -24,7 +24,9 @@ before_script:
 
 script:
   - coverage run test_Fast_Food_Fast.py
-
+  - coverage report -m
+  - pytest
+  - python test_Fast_Food_Fast.py
 after_script:
   - coverage xml
   - if [[ "$TRAVIS_PULL_REQUEST" == "false" && "$TRAVIS_PYTHON_VERSION" == "3.6"]]; then ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT; fi
