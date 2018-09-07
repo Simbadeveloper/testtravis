@@ -5,6 +5,67 @@ HOST: http://polls.apiblueprint.org/
 
 Polls is a simple API allowing consumers to view polls and vote in them.
 
+## Home [/api/v1]
+
+### Home[POST]
+
+Endpoint for home page.
+
++ Response 200 (application/json)
+
+         {
+             "message" : "welcome to fast-Food-Fast online restaurant
+          }
+    
+## Signup [/api/v1/auth/signup]    
+          
+### Signup [POST]  
+
+Endpoint for registering a user.
+
++ Response 200 (application/json)
+
+
+        {
+          "username": "simba",
+          "fname":"silas",
+          "lname":"omurunga",
+          "email":"silverdeltamega@gmail.com",
+          "password":"123simba",
+          "cpassword":"123simba"
+        }
+        
+###  Confirmation [/api/v1/auth/confirmation]
+
+### Confirmation [POST] 
+
+Endpoint to confirm a user details.
+
++ Response 200(application/json)
+
+        {
+          "username": "simba",
+          "fname":"silas",
+          "lname":"omurunga",
+          "email":"silverdeltamega@gmail.com",
+          "password":"123simba",
+          "cpassword":"123simba"
+        }
+
+
+## Login [/api/v1/auth/login]
+
+### Login [POST]
+
++ Response 200 (application/json)
+
+        {
+          "username": "simba",
+          "email":"silverdeltamega@gmail.com",
+          "password":"123simba"
+        }
+
+
 ## Questions Collection [/questions]
 
 ### List All Questions [GET]
