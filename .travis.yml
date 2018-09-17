@@ -23,7 +23,7 @@ before_script:
   - ./cc-test-reporter before-build
 
 script:
-  - pytest --cov=test_Fast_Food_Fast.py
+  - pytest test_Fast_Food_Fast --cov=test_Fast_Food_Fast
   
 after_script:
   - coverage xml
