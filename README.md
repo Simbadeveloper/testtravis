@@ -1,21 +1,15 @@
 # Test
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ef153b2be0fc4b7fae25c6fe026dfab5)](https://app.codacy.com/app/Simbadeveloper/testtravis?utm_source=github.com&utm_medium=referral&utm_content=Simbadeveloper/testtravis&utm_campaign=Badge_Grade_Dashboard)
 [![Build status](https://ci.appveyor.com/api/projects/status/r05lx9asmq9893wl/branch/master?svg=true)](https://ci.appveyor.com/project/Simbadeveloper/testtravis/branch/master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3bdf79e4cc174ab9af8cfb8ccdc9ead9)](https://www.codacy.com/app/Simbadeveloper/testtravis?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Simbadeveloper/testtravis&amp;utm_campaign=Badge_Grade)
 [![BCH compliance](https://bettercodehub.com/edge/badge/Simbadeveloper/testtravis?branch=master)](https://bettercodehub.com/)
-[![CircleCI](https://circleci.com/gh/Simbadeveloper/testtravis.svg?style=svg)](https://circleci.com/gh/Simbadeveloper/testtravis)
 [![Build status](https://travis-ci.org/Simbadeveloper/testtravis.svg?master)](https://travis-ci.org/Simbadeveloper)
 [ ![Codeship Status for Simbadeveloper/testtravis](https://app.codeship.com/projects/95a000a0-945d-0136-6791-16711eab9874/status?branch=master)](https://app.codeship.com/projects/304673)
 [![Coverage Status](https://coveralls.io/repos/github/Simbadeveloper/testtravis/badge.svg?branch=master)](https://coveralls.io/github/Simbadeveloper/testtravis?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/ad4b88f8a2747edf43ea/maintainability)](https://codeclimate.com/github/Simbadeveloper/testtravis/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ad4b88f8a2747edf43ea/test_coverage)](https://codeclimate.com/github/Simbadeveloper/testtravis/test_coverage)
 
-
-
-# Better code result
-https://bettercodehub.com/results/Simbadeveloper/testtravis
-
-
-# codeclimate
-https://codeclimate.com/github/Simbadeveloper/testtravis
 
 # Process
 I made a repository on github then clone it to my computer.<br>
