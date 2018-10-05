@@ -1,2 +1,1 @@
-
-worker: python Fast_Food_Fast.py
+web: gunicorn Fast_Food_Fast.py:app
